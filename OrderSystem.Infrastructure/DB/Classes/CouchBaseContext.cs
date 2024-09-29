@@ -1,10 +1,6 @@
 ﻿using Couchbase;
-using Couchbase.Extensions.DependencyInjection;
 using Couchbase.KeyValue;
 using OrderSystem.Infrastructure.DB.Interfaces;
-using OrderSystem.Infrastructure.Enum;
-using System.Data.Common;
-
 
 namespace OrderSystem.Infrastructure.DB.Classes
 {
